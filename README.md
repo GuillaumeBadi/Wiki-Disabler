@@ -1,5 +1,5 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[!License](https://img.shields.io/crates/l/l.svg?style=flat-square)
+[![License](https://img.shields.io/crates/l/l.svg?style=flat-square)]
 
 
 # Wiki-Disabler
